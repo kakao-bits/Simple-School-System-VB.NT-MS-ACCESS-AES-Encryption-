@@ -1,0 +1,17 @@
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\bin\Debug\SchoolEncDec.exe.config
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\bin\Debug\SchoolEncDec.exe
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\bin\Debug\SchoolEncDec.pdb
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\bin\Debug\SchoolEncDec.xml
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.addStudentForm.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.addResultsForm.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.editStudentForm.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.showResultsForm.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.loginForm.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.Resources.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.showStudentResultForm.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.studentPage.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.teacherPage.resources
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.vbproj.GenerateResource.Cache
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.exe
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.xml
+C:\Users\koko\documents\visual studio 2013\Projects\SchoolEncDec\SchoolEncDec\obj\Debug\SchoolEncDec.pdb
