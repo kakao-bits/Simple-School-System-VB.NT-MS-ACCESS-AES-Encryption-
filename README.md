@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## IDE & Programming Languages 
 
-You can use the [editor on GitHub](https://github.com/koko12345/Simple-School-System-VB.NT-MS-ACCESS-AES-Encryption-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here i had used   [MS VS 2013](https://visualstudio.microsoft.com/vs/older-downloads/) for desktop applications.
+Forms or Interface are created using VB.NET windows form application 
+Database used is MS ACCESS with integration by OLEDB.12.0 as accdb DB connection adapter 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mechanism 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Luncher form is Login form which requires specifing the user type either Student or a Teacher then for teacher 
+he can perfom Add, Edit, Delete students 
 
 ```markdown
 Syntax highlighted code block
